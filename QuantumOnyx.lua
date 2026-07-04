@@ -1,3 +1,11 @@
+--[[
+                            QUANTUM ONYX HUB PROJECT
+            This was made by Quantum Onyx Team ( discord.gg/quantumonyx )
+            KEYSYSTEM UI built using claude ai
+            Service by Luarmor.net
+            Compiled by: Flazhy
+            Copyright © 2024-2026 Quantum Onyx Team - All Rights Reserved.
+]]--
 local Directory = "https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/Games"
 local Api = "https://api.luarmor.net/files/v4/loaders"
 local Scripts = {
