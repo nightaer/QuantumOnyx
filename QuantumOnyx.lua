@@ -863,9 +863,9 @@ local function AuthenticateAndLoad()
     task.spawn(function()
         local premium, key = ShowKeyUI()
         if premium then
-            LoadScript("Premium", nil)
+            LoadScript("Premium", key)
         else
-            LoadScript("Free", key)
+            LoadScript("Free", nil)
         end
     end)
 end
